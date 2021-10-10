@@ -3,7 +3,7 @@
 *Yet Another Computer Engineer*
 
 - 👨‍💻 Currently working at [One2n Consulting](https://one2n.in/)
-- 🇮🇳 Bengaluru, India
+- 🇮🇳 Mumbai, India
 - 🌱 I’m currently learning... everything
 - 🎵 I play the keyboard, violin, ukulele and tabla
 - 🎥 [Avid filmmaker](https://www.youtube.com/playlist?list=PLQQp-IbY4nLMsA4YAWKZqexojX-QnEF7W)
