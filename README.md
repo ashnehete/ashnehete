@@ -1,6 +1,6 @@
 ### Hello & नम्सते।
 
-*Yet Another Software Engineer*
+*Solving problems with code*
 
 - 👨‍💻 Currently studying MS in Computer Science at University of Massachusetts, Amherst
 - 📍 Amherst, MA, USA
